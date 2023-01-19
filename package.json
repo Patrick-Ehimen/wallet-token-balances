@@ -1,0 +1,19 @@
+{
+  "name": "wallet-token-balance",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@moralisweb3/common-evm-utils": "^2.11.1",
+    "@next/font": "13.1.2",
+    "moralis": "^2.11.1",
+    "next": "13.1.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
