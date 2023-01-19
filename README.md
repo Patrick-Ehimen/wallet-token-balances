@@ -26,4 +26,4 @@ This project uses React for its UI components and Moralis for its API calls:
 
 You can view a demo of the Dapp here: [wallet-token-balance Dapp Demo](https://wallet-token-balances.vercel.app/)
 
-# Be sure to refresh the page after checking the balance of each address.
+## Be sure to refresh the page after checking the balance of each address.
